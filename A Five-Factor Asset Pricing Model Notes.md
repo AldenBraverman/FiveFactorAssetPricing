@@ -39,5 +39,13 @@ We need to define assumptions for required rate of return and dividend growth ra
 			- A beta of 1 means the stock's price is expected to move with the market. If the market goes up by 1%, the stock is also expected to go up by 1%, and vice versa.
 			- A beta greater than 1 indicates higher volatility compared to the market. For example, a beta of 1.5 means the stock is expected to move 50% more than the market. If the market goes up by 1%, the stock is expected to go up by 1.5%.
 			- A beta less than 1 indicates lower volatility compared to the market. For instance, a beta of 0.5 means the stock is expected to move 50% less than the market.
-			- 
+			- $β = \frac{Covariance(StockReturns, MarketReturns)}{Variance(MarketReturns)}$
+				- **β=1**: The stock's price moves in line with the market.
+				- **β>1**: The stock is more volatile than the market. It has higher risk but potentially higher returns.
+				- **β<1**: The stock is less volatile than the market. It has lower risk but potentially lower returns.
+				- **β<0**: A negative beta indicates that the stock moves in the opposite direction to the market. This is less common but can occur in certain defensive stocks or sectors.
+- Dividend Growth Rate
+	- Examine the historical dividend growth rate of the company in question. For mature companies like Apple Inc. (AAPL), a 5% growth rate can be reasonable, given their track record of dividend increases and overall financial health.
+	- Compare the company's dividend growth rate with industry averages. A 5% growth rate is typical for many established companies that have stable earnings and a history of returning capital to shareholders.
+	- Look at analysts' forecasts and industry reports. Analysts often provide estimates for future dividend growth, and a 5% growth rate might align with these projections for companies with stable earnings and a history of dividend increases.
 
