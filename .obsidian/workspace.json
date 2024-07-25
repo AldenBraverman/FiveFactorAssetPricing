@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "c671fbff38a190f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "516db372125754f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c916036a5d0509c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Five-Factor Asset Pricing Model Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2128c867eccda87c",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e36216e4d37b4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ccd6c4c7c3e1f92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90fe4562f3e305a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a56f3b2eee7ffb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b79650f161af509",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbb6df9a3cd3f184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2c96efadd7416d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A Five-Factor Asset Pricing Model Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6a1c05da36f1b07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A Five-Factor Asset Pricing Model Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3da28a32f453727c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65b5f09d8433a966",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A Five-Factor Asset Pricing Model Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c916036a5d0509c9",
+  "lastOpenFiles": [
+    "python/SimpleGordonGrowth.py",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/WHEEL",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/top_level.txt",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/METADATA",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/REQUESTED",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/LICENSE.txt",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/RECORD",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/INSTALLER",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info/entry_points.txt",
+    "FiveFactorAssetPricingModel/Lib/site-packages/yfinance-0.2.41.dist-info",
+    "FiveFactorAssetPricingModel/Scripts/sample.exe",
+    "FiveFactorAssetPricingModel/Lib/site-packages/pandas-2.0.3.dist-info/AUTHORS.md",
+    "FiveFactorAssetPricingModel/Lib/site-packages/idna-3.7.dist-info/LICENSE.md",
+    "FiveFactorAssetPricingModel/Lib/site-packages/soupsieve-2.5.dist-info/licenses/LICENSE.md",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/demos/images/tcllogo.gif",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/demos/images/ouster.png",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/demos/images/earthris.gif",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/demos/images/earthmenu.png",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/demos/images/earth.gif",
+    "FiveFactorAssetPricingModel/tcl/tix8.4.3/demos/bitmaps/tix.gif",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/images/tai-ku.gif",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/images/pwrdLogo75.gif",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/images/pwrdLogo200.gif",
+    "FiveFactorAssetPricingModel/tcl/tk8.6/images/pwrdLogo175.gif",
+    "A Five-Factor Asset Pricing Model Notes.md"
+  ]
+}
